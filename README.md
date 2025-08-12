@@ -1,4 +1,4 @@
-# Hi there, I'm mackto0202 👋
+# Hi there, I'm Abid 👋
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontColor=fff)
 
